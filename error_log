@@ -1,0 +1,13 @@
+[01-Aug-2015 05:52:57 EST] PHP Parse error:  syntax error, unexpected 'color' (T_STRING) in /home/uflipca/membres/application/language/french/french_lang.php on line 1706
+[01-Aug-2015 05:55:36 EST] PHP Parse error:  syntax error, unexpected 'color' (T_STRING) in /home/uflipca/membres/application/language/french/french_lang.php on line 1794
+[01-Aug-2015 05:57:31 EST] PHP Parse error:  syntax error, unexpected 'color' (T_STRING) in /home/uflipca/membres/application/language/french/french_lang.php on line 1794
+[01-Aug-2015 05:58:03 EST] PHP Parse error:  syntax error, unexpected 'color' (T_STRING) in /home/uflipca/membres/application/language/french/french_lang.php on line 1794
+[01-Aug-2015 05:58:23 EST] PHP Parse error:  syntax error, unexpected 'color' (T_STRING) in /home/uflipca/membres/application/language/french/french_lang.php on line 1794
+[03-Aug-2015 23:46:17 EST] PHP Warning:  phpinfo() has been disabled for security reasons in /home/uflipca/membres/mail.php on line 4
+[03-Aug-2015 23:51:48 EST] PHP Warning:  phpinfo() has been disabled for security reasons in /home/uflipca/membres/mail.php on line 4
+[04-Aug-2015 00:34:29 EST] PHP Warning:  phpinfo() has been disabled for security reasons in /home/uflipca/membres/mail.php on line 4
+[04-Aug-2015 23:37:42 EST] PHP Parse error:  syntax error, unexpected 'user_name_entry' (T_STRING) in /home/uflipca/membres/application/controllers/register.php on line 2065
+[04-Aug-2015 23:38:10 EST] PHP Parse error:  syntax error, unexpected 'user_name_entry' (T_STRING) in /home/uflipca/membres/application/controllers/register.php on line 2065
+[04-Aug-2015 23:38:59 EST] PHP Parse error:  syntax error, unexpected 'user_name_entry' (T_STRING) in /home/uflipca/membres/application/controllers/register.php on line 2065
+[04-Aug-2015 23:39:53 EST] PHP Parse error:  syntax error, unexpected 'user_name_entry' (T_STRING) in /home/uflipca/membres/application/controllers/register.php on line 2065
+[05-Aug-2015 05:31:23 EST] PHP Fatal error:  Call to undefined method login_model::checkMailStatus() in /home/uflipca/membres/application/models/login_model.php on line 208
